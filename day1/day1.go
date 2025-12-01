@@ -38,7 +38,7 @@ func part1() {
 			zerosCounter++
 		}
 	}
-	fmt.Println("Part 1 - the password is:", zerosCounter) // 989
+	fmt.Println("Part 1 - the password is:", zerosCounter)
 }
 
 func part2() {
@@ -69,7 +69,7 @@ func part2() {
 		}
 	}
 
-	fmt.Println("Part 2 - the password is:", zerosCounter) // 5941
+	fmt.Println("Part 2 - the password is:", zerosCounter)
 }
 
 func main() {
